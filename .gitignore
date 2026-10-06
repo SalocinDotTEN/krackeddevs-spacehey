@@ -1,0 +1,11 @@
+node_modules/
+.npm-cache/
+dist/
+.wrangler/
+.dev.vars
+.env
+.env.*
+!.env.example
+/assets-contact.png
+/design-qa.md
+/public/__qa/
